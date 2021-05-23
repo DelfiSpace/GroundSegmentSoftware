@@ -1,5 +1,2 @@
-
 pgadmin/data/*
-db/data/*
-openvas/data/*
-
+postgresql/data/*
